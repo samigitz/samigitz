@@ -1,90 +1,38 @@
 
 <div align="center">
 
-# 👨‍💻 Sampa | Software Engineer
+# 👨‍💻 Sam
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=F59E0B&center=true&vCenter=true&width=750&height=60&lines=Laravel+%7C+PHP+%7C+React;Clean+Code+%7C+Refactoring;Livewire+%7C+Filament+%7C+Nova;Building+Scalable+Software;Always+Learning+%26+Improving)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=F59E0B&center=true&vCenter=true&width=750&height=60&lines=PHP+%7C+Laravel+%7C+Vue+%7C+React;Python+%7C+Flask+%7C+Django;Clean+Code+%7C+Refactoring;Livewire+%7C+Filament+%7C+Nova;Building+Scalable+Software;)](https://git.io/typing-svg)
 
 </div>
 
----
-
-## 👋 About Me
-
-```php
-<?php
-
-declare(strict_types=1);
-
-final class Developer
-{
-    public function name(): string
-    {
-        return 'Sampa';
-    }
-
-    public function role(): string
-    {
-        return 'Software Engineer';
-    }
-
-    /**
-     * @return array<int, string>
-     */
-    public function stack(): array
-    {
-        return [
-            'PHP',
-            'Laravel',
-            'Livewire',
-            'Filament',
-            'Laravel Nova',
-            'React',
-            'Vue',
-            'MySQL',
-        ];
-    }
-
-    /**
-     * @return array<int, string>
-     */
-    public function interests(): array
-    {
-        return [
-            'Clean Code',
-            'Refactoring',
-            'Software Architecture',
-            'Frontend Engineering',
-            'Mobile Development',
-        ];
-    }
-}
-
----
 
 ## ⚡ Tech Stack
 
-### Backend
+
+#### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis" />
+  <img src="https://skillicons.dev/icons?i=php,python,laravel,mysql,redis,mongodb" />
 </p>
 
-### Frontend
+#### Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,vue,js,ts,html,css,tailwind" />
 </p>
 
-### Tools
+#### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,codex,claude" />
 </p>
 
----
 
-## 🧩 Laravel Ecosystem
+
+
+## 🧩 Ecosystem
 
 ```text
 Laravel
@@ -100,7 +48,6 @@ Laravel
 └── Refactoring
 ```
 
----
 
 ## 🚀 What I Build
 
@@ -121,31 +68,30 @@ Laravel
        └─────────────┘           └─────────────┘
 ```
 
----
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=samigitz&show_icons=true&theme=github_dark&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samigitz&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
----
+
 
 ## 🔥 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=samigitz&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
----
 
-## 🛠️ Development Mindset
+
+## 🛠️ Mindset
 
 ```php
 <?php
@@ -167,62 +113,22 @@ function improveAsDeveloper(): string
 }
 ```
 
----
 
-## 📚 Currently Learning
-
-```text
-React
-├── Components
-├── Hooks
-├── State Management
-├── Performance
-├── Architecture
-└── TypeScript
-
-Mobile Development
-├── React Native
-└── Cross-platform architecture
-```
-
----
-
-## 💡 Software Development Philosophy
-
-```text
-Understand
-    ↓
-Design
-    ↓
-Build
-    ↓
-Test
-    ↓
-Refactor
-    ↓
-Improve
-```
-
-> Don't just make the code work.
-> Make the code easy for the next developer to understand.
-
----
 
 ## 🤝 Let's Connect
 
 <p align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/samigitz">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="http://linkedin/in/sampathsrianuradha">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </p>
 
----
 
 <div align="center">
 
@@ -233,4 +139,3 @@ Laravel • PHP • React • Clean Code • Software Engineering
 ```
 
 </div>
-```
