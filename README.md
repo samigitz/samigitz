@@ -52,20 +52,49 @@ Laravel
 ## 🚀 What I Build
 
 ```text
-                  ┌─────────────────┐
-                  │     Laravel     │
-                  └────────┬────────┘
-                           │
-              ┌────────────┴────────────┐
-              │                         │
-        ┌─────▼─────┐             ┌─────▼─────┐
-        │ Livewire  │             │ REST API  │
-        └─────┬─────┘             └─────┬─────┘
-              │                         │
-       ┌──────▼──────┐           ┌──────▼──────┐
-       │ Filament /  │           │ React / Vue │
-       │    Nova     │           │  Frontend   │
-       └─────────────┘           └─────────────┘
+Software Engineering
+│
+├── Backend
+│   ├── PHP
+│   │   ├── Laravel
+│   │   ├── Livewire
+│   │   ├── Filament
+│   │   ├── Nova
+│   │   ├── REST APIs
+│   │   └── Queues & Jobs
+│   │
+│   └── Python
+│       ├── Flask
+│       ├── Django
+│       ├── Automation Scripts
+│       └── API Development
+│
+├── Frontend
+│   ├── React
+│   ├── Vue
+│   ├── TypeScript
+│   ├── Tailwind CSS
+│   └── Reusable UI Components
+│
+├── Mobile
+│   ├── React Native
+│   ├── Cross-platform Apps
+│   ├── API Integration
+│   └── App Navigation & UI
+│
+├── Data
+│   ├── MySQL
+│   ├── PostgreSQL
+│   ├── Redis
+│   └── MongoDB
+│
+└── Tools
+    ├── Codex & Claude 
+    ├── Git & GitHub
+    ├── Docker
+    ├── Linux
+    ├── Postman
+    └── VS Code
 ```
 
 
