@@ -3,7 +3,7 @@
 
 # 👨‍💻 Sam
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=F59E0B&center=true&vCenter=true&width=750&height=60&lines=PHP+%7C+Laravel+%7C+Vue+%7C+React;Python+%7C+Flask+%7C+Django;Clean+Code+%7C+Refactoring;Livewire+%7C+Filament+%7C+Nova;Building+Scalable+Software;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=1f883d&center=true&vCenter=true&width=750&height=60&lines=PHP+%7C+Laravel+%7C+Vue+%7C+React;Python+%7C+Flask+%7C+Django;Clean+Code+%7C+Refactoring;Livewire+%7C+Filament+%7C+Nova;Building+Scalable+Software;)](https://git.io/typing-svg)
 
 </div>
 
