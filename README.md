@@ -31,24 +31,6 @@
 
 
 
-
-## 🧩 Ecosystem
-
-```text
-Laravel
-├── Livewire
-├── Filament
-├── Nova
-├── Eloquent ORM
-├── REST APIs
-├── Queues & Jobs
-├── Events & Listeners
-├── Service Containers
-├── Testing
-└── Refactoring
-```
-
-
 ## 🚀 What I Build
 
 ```text
