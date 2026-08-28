@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 # 👨‍💻 Sampa | Software Engineer
@@ -59,7 +59,6 @@ final class Developer
         ];
     }
 }
-````
 
 ---
 
@@ -100,48 +99,6 @@ Laravel
 ├── Testing
 └── Refactoring
 ```
-
----
-
-## 🎯 Current Focus
-
-```text
-01. Writing cleaner Laravel applications
-02. Improving React knowledge
-03. Understanding software architecture deeply
-04. Refactoring legacy code safely
-05. Improving code quality and maintainability
-06. Exploring mobile application development
-```
-
----
-
-## 🧠 Engineering Principles
-
-> Clean code is not about writing less code.
-> It is about writing code that is easier to understand, change and maintain.
-
-```text
-Readable
-   ↓
-Testable
-   ↓
-Maintainable
-   ↓
-Scalable
-```
-
-I care about:
-
-* Clean architecture
-* SOLID principles
-* Strong typing
-* Small focused classes
-* Clear naming
-* Proper return types
-* Automated testing
-* Refactoring
-* Maintainable codebases
 
 ---
 
