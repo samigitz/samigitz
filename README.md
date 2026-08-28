@@ -112,6 +112,7 @@ declare(strict_types=1);
 function improveAsDeveloper(): string
 {
     while (true) {
+        think();
         learn();
         build();
         review();
