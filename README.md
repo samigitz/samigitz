@@ -102,31 +102,6 @@ Software Engineering
 
 
 
-## 🛠️ Mindset
-
-```php
-<?php
-
-declare(strict_types=1);
-
-function improveAsDeveloper(): string
-{
-    while (true) {
-        think();
-        learn();
-        build();
-        review();
-        refactor();
-        test();
-        improve();
-    }
-
-    return 'Never stop improving.';
-}
-```
-
-
-
 ## 🤝 Let's Connect
 
 <p align="center">
