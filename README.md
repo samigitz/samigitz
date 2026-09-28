@@ -14,7 +14,7 @@
 #### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,python,laravel,mysql,redis,mongodb" />
+  <img width="12" src="https://skillicons.dev/icons?i=php,python,laravel,mysql,redis,mongodb" />
 </p>
 
 #### Frontend
