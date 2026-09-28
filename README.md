@@ -34,6 +34,12 @@
 <div align="center">
   
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=UniFileManager&repo=filament-file-manager)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=samigitz&repo=larasift)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=h4ckf0r0day&repo=obscura)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=samigitz&repo=smart-autofill)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=bilawalsidhu&repo=gods-eye-view)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=UniFileManager&repo=nova-file-manager)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=finanze&repo=finanze)
 
 </div>
 
