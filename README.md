@@ -1,32 +1,32 @@
 
 <div align="center">
 
-# 👨‍💻 Sam
+## 👨‍💻 Sam
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=1f883d&center=true&vCenter=true&width=750&height=60&lines=PHP+%7C+Laravel+%7C+Vue+%7C+React;Python+%7C+Flask+%7C+Django;Clean+Code+%7C+Refactoring;Livewire+%7C+Filament+%7C+Nova;Building+Scalable+Software;)](https://git.io/typing-svg)
 
 </div>
 
 
-## ⚡ Tech Stack
+### ⚡ Tech Stack
 
 
 #### Backend
 
 <p>
-  <img width="120" src="https://skillicons.dev/icons?i=php,python,laravel,mysql,redis,mongodb" />
+  <img width="140" src="https://skillicons.dev/icons?i=php,python,laravel,mysql,redis,mongodb" />
 </p>
 
 #### Frontend
 
 <p>
-  <img width="120" src="https://skillicons.dev/icons?i=react,vue,js,ts,html,css,tailwind" />
+  <img width="140" src="https://skillicons.dev/icons?i=react,vue,js,ts,html,css,tailwind" />
 </p>
 
 #### Tools
 
 <p>
-  <img width="120" src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,codex,claude" />
+  <img width="140" src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,codex,claude" />
 </p>
 
 ## 📊 GitHub Stats
