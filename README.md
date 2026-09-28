@@ -29,11 +29,17 @@
   <img width="140" src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,codex,claude" />
 </p>
 
+### Repository Pin
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=UniFileManager&repo=filament-file-manager)
+
+</div>
+
 ### 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=UniFileManager&repo=filament-file-manager)
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=samigitz&show_icons=true&theme=github_dark&hide_border=true" />
 
