@@ -14,19 +14,19 @@
 #### Backend
 
 <p>
-  <img width="12" src="https://skillicons.dev/icons?i=php,python,laravel,mysql,redis,mongodb" />
+  <img width="120" src="https://skillicons.dev/icons?i=php,python,laravel,mysql,redis,mongodb" />
 </p>
 
 #### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vue,js,ts,html,css,tailwind" />
+  <img width="120" src="https://skillicons.dev/icons?i=react,vue,js,ts,html,css,tailwind" />
 </p>
 
 #### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,codex,claude" />
+  <img width="120" src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,codex,claude" />
 </p>
 
 
