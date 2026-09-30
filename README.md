@@ -29,6 +29,7 @@
   <img width="140" src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,codex,claude" />
 </p>
 
+<!-- 
 ##### Repository Pin
 
 <div align="center">
@@ -42,6 +43,7 @@
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=finanze&repo=finanze)
 
 </div>
+-->
 
 ##### 📊 GitHub Stats
 
